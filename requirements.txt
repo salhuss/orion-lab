@@ -1,0 +1,9 @@
+typer[all]
+langgraph
+openai>=1.30
+requests
+sentence-transformers
+qdrant-client
+numpy
+duckduckgo-search
+pydantic
